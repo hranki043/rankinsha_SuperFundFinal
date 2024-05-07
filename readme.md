@@ -1,5 +1,5 @@
-#### **Web Mapping: Lab 6**
-##### Simple Bivariate Web Map
+#### **New Jersey Superfund Sites**
+##### Final Web Mapping Project
 
 ###### Abbey Rankins
 
